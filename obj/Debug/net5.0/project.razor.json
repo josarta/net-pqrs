@@ -15634,6 +15634,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\Customer\\Management.cshtml",
+      "TargetPath": "Views\\Customer\\Management.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\Customer\\Profiles.cshtml",
+      "TargetPath": "Views\\Customer\\Profiles.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\App\\Forgot.cshtml",
       "TargetPath": "Views\\App\\Forgot.cshtml",
       "FileKind": "mvc"
@@ -15641,6 +15651,11 @@
     {
       "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\App\\Index.cshtml",
       "TargetPath": "Views\\App\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\Customer\\index.cshtml",
+      "TargetPath": "Views\\Customer\\index.cshtml",
       "FileKind": "mvc"
     },
     {
