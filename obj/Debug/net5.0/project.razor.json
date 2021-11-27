@@ -15644,8 +15644,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\Customer\\Template\\upperarea.cshtml",
+      "TargetPath": "Views\\Customer\\Template\\upperarea.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\App\\Register.cshtml",
       "TargetPath": "Views\\App\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Proyectos .Net\\2141470-1\\PQRS\\Views\\Customer\\Template\\verticalmenu.cshtml",
+      "TargetPath": "Views\\Customer\\Template\\verticalmenu.cshtml",
       "FileKind": "mvc"
     },
     {
